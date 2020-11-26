@@ -23,14 +23,15 @@
 3. Tkinter
 
 # Project workflow📌:
-Data Collection:
+**Data Collection:**
 1. I collected the data from a reposetory, the images with mask are artificial,means it had been edited.Its in `dataset` folder. Dataset was quite balanced.
-Model Building:
+
+**Model Building:**
 1. Notebook where all the work is done is [here](https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning/blob/master/Simple%20Fcae%20Mask%20Detection%20GUI%20Using%20Tensorflow%202.x%20%26%20Tkinter%F0%9F%98%B7.ipynb). As it was giving 90+ accurecy and as the mode of evaluation was accurecy_score so i decided to go with that. Its a general DNN model no pretrained model. 
 2. after training the model I used haarcascade face detection to detect the face.
 
- GUI for the model:
- 1. Used tkinter for building a very simple UI which people can use to interact with the model.
+**GUI for the model:**
+1. Used tkinter for building a very simple UI which people can use to interact with the model.
 
 # Demo📱:
 <pre>
