@@ -10,9 +10,9 @@
  <img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/made-with-python.svg"> <img src="https://forthebadge.com/images/badges/open-source.svg"> <img src="https://forthebadge.com/images/badges/made-with-reason.svg">
 
 </p>
-
+<p align="center">
 <i>This is a simple desktop GUI based application for face mask detection </i>
-
+</p>
 
 </p>
 
