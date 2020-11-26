@@ -2,7 +2,7 @@
 <h1>Simple Face Mask Detection Using Deep Learning😷</h1>
 <br/>
 <p align="center">
-<a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><img alt="GitHub" src="https://img.shields.io/github/license/soumya997/Resume-analyzer?style=for-the-badge"><br/>
+<a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><img alt="GitHub" src="https://img.shields.io/github/license/soumya997/Face-Mask-Detection-Using-Deep-Learning?style=for-the-badge"><br/>
 
 </p>
 <p align="center">
