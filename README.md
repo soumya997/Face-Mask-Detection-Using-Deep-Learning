@@ -1,10 +1,11 @@
 <p align="center">
 <h1>Simple Face Mask Detection Using Deep Learning</h1>
 <br/>
+<p align="center">
 <a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 <br/>
 <a href="LICENSE"><img alt="GitHub License MIT" src="https://img.shields.io/github/license/soumya997/Face-Mask-Detection-Using-Deep-Learning?style=for-the-badge&labelColor=black&logo=github"></a>
-
+</p>
 <p align="center">
 
  <img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/made-with-python.svg"> <img src="https://forthebadge.com/images/badges/open-source.svg"> <img src="https://forthebadge.com/images/badges/made-with-reason.svg">
